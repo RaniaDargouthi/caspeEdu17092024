@@ -1,0 +1,1 @@
+hhhhhhh<?php /**PATH /home/ranya/Bureau/caasp/projet-jaafar/resources/views/web/default/pages/kg1.blade.php ENDPATH**/ ?>
