@@ -70,7 +70,7 @@
           <i class="bi bi-volume-up-fill fs-2 mt-3" type="button"></i>
       </div>
       <div class="col-md-9">
-        <p class="mt-3 fs-5" id="quest" >أَضْغَطُ عَلَى الْجَوَابِ الْمُنَاسِبِ:</p>
+        <p class="mt-3 fs-5" id="quest" >أَضْغَطُ عَلَى الْجَوَابِ666 الْمُنَاسِبِ:</p>
       </div>
     </div>
   </div>
